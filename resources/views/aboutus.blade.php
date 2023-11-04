@@ -7,8 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello this is home</h1>
-    <div></div>
-    <a href="/aboutus">about us</a>
+    <h1>Hello to view file</h1>
+    <h2><div>{{$name}}</div></h2>
+    <a href="/">Home</a>
 </body>
 </html>
